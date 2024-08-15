@@ -1,5 +1,5 @@
 # Portfolio in english
-<!-- (Portfolio en español)
+<!-- (Portfolio en español) --!>
 
 Inside this repository, you will find the following portfolio projects developed during Google's Cybersecurity Online Course:<br>
 <br>
@@ -13,5 +13,5 @@ Inside this repository, you will find the following portfolio projects developed
 - **Text File Import and Parsing Tool:** A utility for importing and parsing text files in security-related scenarios, showcasing data handling skills.<br>
 <br>
 <br>
- Should you need it, you will also be able to find my resume here: link --!>
+<!-- Should you need it, you will also be able to find my resume here: link --!>
 

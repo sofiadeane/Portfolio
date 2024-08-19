@@ -10,8 +10,6 @@ I am currently pursuing a [certification in cybersecurity from Google](https://w
 > **SQL Query Filter Application:** Implementation of security-focused filters within SQL queries to safeguard against injection attacks.<br>
 > **Small Business Vulnerability Assessment:** An evaluation of cybersecurity vulnerabilities specific to a small business environment, with actionable recommendations.<br>
 > **Incident Handler's Journal:** Documentation of incidents, responses, and lessons learned, serving as a practical incident management guide.<br>
-> **Text File Import and Parsing Tool:** A utility for importing and parsing text files in security-related scenarios, showcasing data handling skills.
-<br>
-<br>
-[Should you need it, you will also be able to find my resume here](https://www.canva.com/design/DAFaFYRwIIo/P_NX6JpsPr2jsOZZSFiLbA/view)
+> **Text File Import and Parsing Tool:** A utility for importing and parsing text files in security-related scenarios, showcasing data handling skills.<br>
+> Should you need it, you will also be able to find my **resume** [here!](https://www.canva.com/design/DAFaFYRwIIo/P_NX6JpsPr2jsOZZSFiLbA/view)
 

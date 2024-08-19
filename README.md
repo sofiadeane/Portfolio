@@ -1,6 +1,5 @@
 # Welcome to my Portfolio!
 
-#### Professional Statement
 As a creative and curious individual with a diverse background in education, design, and engineering, I am passionate about continuously learning and applying my skills in new ways.
 I am currently pursuing a [certification in cybersecurity from Google](https://www.coursera.org/professional-certificates/google-cybersecurity), as well as a [Bachelor's Degree in systems engineering](https://drive.google.com/file/d/1gxTe8g2g7xJuvrRN5Rb4U7VxzWPTiLDP/view?usp=sharing). I am committed and dedicated to developing my expertise further, understanding that my journey is just beginning, but I am ready to take on challenges in the tech industry, driven by my love for learning and problem-solving.
 

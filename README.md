@@ -13,5 +13,5 @@ Para acceder a mi portfolio en español haz click [aqui](https://github.com/sofi
 > **Text File Import and Parsing Tool:** A utility for importing and parsing text files in security-related scenarios, showcasing data handling skills.
 <br>
 <br>
-__Should you need it, you will also be able to find my resume here__
+Should you need it, you will also be able to find my resume here
 

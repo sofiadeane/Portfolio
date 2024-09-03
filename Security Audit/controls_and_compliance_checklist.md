@@ -12,7 +12,7 @@
 |   ✔  |      | Antivirus software                                                   |
 |      |   ✘  | Manual monitoring, maintenance, and intervention for legacy systems  |
 |      |   ✘  | Encryption                                                           |
-|   ✔  |      | Password management system                                           |
+|      |   ✘  | Password management system                                           |
 |   ✔  |      | Locks (offices, storefront, warehouse)                               |
 |   ✔  |      | Closed-circuit television (CCTV) surveillance                        |
 |   ✔  |      | Fire detection/prevention (fire alarm, sprinkler system, etc.)       |
@@ -34,16 +34,16 @@
 |:----:|:----:|:------------------------------------------------------------------------------------------------------------------|
 |      |   ✘  | E.U. customers’ data is kept private/secured.                                                                     |
 |   ✔  |      | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. |
-|   ✔  |      | Ensure data is properly classified and inventoried.                                                               |
+|      |   ✘  | Ensure data is properly classified and inventoried.                                                               |
 |   ✔  |      | Enforce privacy policies, procedures, and processes to properly document and maintain data.                       |
 
 #### System and Organizations Controls (SOC type 1, SOC type 2) 
 |  YES |  NO  | Best practice                                                                                                     |
 |:----:|:----:|:------------------------------------------------------------------------------------------------------------------|
-|   ✔  |      | User access policies are established.                                                                             |
+|      |   ✘  | User access policies are established.                                                                             |
 |      |   ✘  | Sensitive data (PII/SPII) is confidential/private.                                                                |
 |   ✔  |      | Data integrity ensures the data is consistent, complete, accurate, and has been validated.                        |
-|   ✔  |      | Data is available to individuals authorized to access it.                                                         |
+|      |   ✘  | Data is available to individuals authorized to access it.                                                         |
 
 <br>
 <br>
@@ -58,7 +58,7 @@ Although all of the missing controls are important and should be addressed event
 |:-------------:|:---------------------------|:-----------------------------------------------------------------------------------|
 |     High      | Intrusion detection system | Critical for preventing future breaches and detecting ongoing attacks.             |
 |     High      | Encryption                 | Critical for reducing the impact of malicious or compromised accounts.             |
-|  Medium-high  | Least Privilege            | Essential for protecting against malicious or compromised insider accounts.        | 
+|  Medium-high  | Least Privilege            | Essential for protecting against malicious or compromised insider accounts.        |
 |  Medium-high  | Separation of duties       | Important for reducing the impact of malicious or compromised insider accounts.    |
 |     Medium    | Password policies          | Necessary to reduce the risk of account compromise.                                |
 |      Low      | Disaster recovery plans    | Important for ensuring business continuity in the event of an attack.              |

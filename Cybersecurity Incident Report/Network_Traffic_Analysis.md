@@ -1,15 +1,8 @@
 <h2>Summary of the problem found in the DNS and ICMP.</h2>
-
-The network protocol analyzer logs indicate that port 443 is unreachable when attempting
-to access the secure employee background check website. Port 443 is normally used for
-HTTPS traffic. This may indicate a problem with the web server or the firewall configuration.
-It is possible that this is an indication of a malicious attack on the web server.
+The UDP protocol reveals that when the DNS was contacted to retrieve the IP address
+This is based on the results of the network analysis, which show that the ICMP echo reply
+returned the error message “udp port 53 unreachable.” Since port 53 is associated with DNS protocol traffic, we know this is an issue with the DNS server, further supported by the flags associated with the outgoing UDP message and domain name retrieval.
 
 
 <h2> Analysis of the data and cause of the incident.</h2>
-Time incident occurred:
-Explain how the IT team became aware of the incident:
-Explain the actions taken by the IT department to investigate the incident:
-Note key findings of the IT department's investigation (i.e., details related to the port
-affected, DNS server, etc.):
-Note a likely cause of the incident:
+The incident occurred today at 13.24hs. Customers alerted the organization that they received the message “destination port unreachable” when they attempted to visit the website yummyrecipesforme.com. The cybersecurity team is currently investigating the issue so customers can access the website again. In our investigation into the issue, we conducted packet sniffing tests using tcpdump. The next step is to identify whether the DNS server is down or if traffic to port 53 is blocked. The DNS server might be down due to a successful DoS/DDoS attack or a misconfiguration. 

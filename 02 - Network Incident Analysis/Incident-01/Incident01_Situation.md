@@ -38,5 +38,4 @@ to the DNS server, you receive ICMP packets containing the error message:
   + The word *"unreachable"* in the message indicates the UDP message requesting an IP address for the domain www.yummyrecipesforme.com did not go through to the DNS server because no service was listening on the receiving DNS port.
 + The remaining lines in the log indicate that ICMP packets were sent two more times, but the same delivery error was received both times. 
 
-This event, in the meantime, is being handled by security engineers after you and other 
-analysts have reported the issue to your direct supervisor. 
+This event, in the meantime, is being handled by security engineers after you and other analysts have reported the issue to your direct supervisor. 

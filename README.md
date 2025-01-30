@@ -5,7 +5,7 @@ I am currently pursuing a [certification in cybersecurity from Google](https://w
 
 ### Inside this repository, you will find the following portfolio projects
 - [x] **Security Audit Report:** A comprehensive security audit, assessing an organization's security measures and identifying potential vulnerabilities.<br>
-- [ ] **Network Structure and Security Analysis:** An in-depth analysis of network architecture and security protocols to ensure robust protection.<br>
+- [x] **Network Structure and Security Analysis:** An in-depth analysis of network architecture and security protocols to ensure robust protection.<br>
 - [ ] **Linux File Permissions Management:** A project demonstrating the use of Linux commands to manage and secure file permissions effectively.<br>
 - [ ] **SQL Query Filter Application:** Implementation of security-focused filters within SQL queries to safeguard against injection attacks.<br>
 - [ ] **Small Business Vulnerability Assessment:** An evaluation of cybersecurity vulnerabilities specific to a small business environment, with actionable recommendations.<br>

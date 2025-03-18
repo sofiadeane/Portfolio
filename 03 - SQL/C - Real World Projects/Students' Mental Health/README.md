@@ -31,7 +31,7 @@ Explore and analyze the students data to see how the length of stay impacts the 
 <br>
 <br>
 
-And here's a preview of the table
+Preview of the table
 
 | inter_dom | region | gender | academic | age | age_cate | stay | stay_cate | japanese | japanese_cate | english | english_cate | intimate | religion | suicide | dep | deptype | todep | depsev | tosc | apd | ahome | aph | afear | acs | aguilt | amiscell | toas | partner | friends | parents | relative | profess | phone | doctor | reli | alone | others | internet | partner_bi | friends_bi | parents_bi | relative_bi | professional_bi | phone_bi | doctor_bi | religion_bi | alone_bi | others_bi | internet_bi |
 |-----------|--------|--------|----------|-----|----------|------|-----------|----------|---------------|---------|--------------|----------|----------|---------|-----|---------|-------|--------|------|-----|-------|-----|-------|-----|--------|----------|------|---------|---------|---------|----------|---------|-------|--------|------|-------|--------|----------|------------|------------|------------|-------------|-----------------|----------|-----------|-------------|----------|-----------|-------------|

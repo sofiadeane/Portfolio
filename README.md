@@ -13,6 +13,3 @@ I am currently pursuing a [certification in cybersecurity from Google](https://w
 - [ ] **Text File Import and Parsing Tool:** A utility for importing and parsing text files in security-related scenarios, showcasing data handling skills.<br>
 
 <br>
-
- Should you need it, you will also be able to find my **resume** [here!](https://www.canva.com/design/DAFaFYRwIIo/P_NX6JpsPr2jsOZZSFiLbA/view) 
-
